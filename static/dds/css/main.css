@@ -544,9 +544,9 @@ a.patient_page_icon:hover {
 }
 
 
-#footer_container{
-    background-color: #808285;
-    height: 200px;
+/*#footer_container{
+    background-color: #b4b4b4;
+    height: 100px;
     width: 100%;
     clear: both;
 }
@@ -563,16 +563,18 @@ a.patient_page_icon:hover {
   text-decoration: none;
   padding: 0 40px 0 40px;
   list-style-type: none;
-}
+}*/
 
 .developed_by {
   color: #fff;
   font-size: 14px;
   font-weight: lighter;
   text-align: center;
-  background-color: #808285;
+  background-color: #5b5b5b;
   width: 100%;
   clear: both;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 /* ==========================================================================
